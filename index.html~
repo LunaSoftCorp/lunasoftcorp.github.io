@@ -15,13 +15,13 @@ Sam in the middle of <p></p> You Put Text <br> Is A Line Break For About us go t
 
 <div id="slogan"></div>
 
-<div id="logo"><a href="#">LunaSoft Corp.</a></div>
+<div id="logo"><a href="#">LunaSorft Corp.</a></div>
 
 <div id="menu">
 <ul>
 <li class="active"><a href="#">Home</a></li>
 <li><a href="#"></a></li>
-<li><a href="#">ListOfStaff</a></li>
+<li><a href="#">ListOfStaf</a></li>
 <li><a href="#"></a></li>
 </ul>
 </div>
